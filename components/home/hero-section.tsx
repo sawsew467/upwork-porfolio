@@ -5,6 +5,9 @@ import { motion } from "framer-motion";
 import { Icon } from "@iconify/react";
 
 export function HeroSection() {
+
+  // test CICD watchtower
+
   return (
     <section className="py-20 md:py-32">
       <div className="container-custom">
