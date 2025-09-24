@@ -25,7 +25,7 @@ export function HeroSection() {
             </div>
 
             <h1 className="heading-xl mb-6 text-foreground">
-              Building Modern Web Applications
+              test CICD
             </h1>
 
             <p className="text-xl mb-8 text-foreground-500">
