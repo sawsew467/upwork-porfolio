@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
     apple: "/favicon.ico",
   },
-  metadataBase: new URL("https://localhost:3000"),
+  metadataBase: new URL("https://thangtvb.work"),
   alternates: {
     canonical: "/",
   },
